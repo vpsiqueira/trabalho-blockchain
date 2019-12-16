@@ -1,8 +1,8 @@
 ﻿### TRABALHO DE BLOCKCHAIN
  ## Grupo
- * Viviane Pires de Siqueira
- * Antônio Carlos de Morais e Silva
  * André Luiz Barbosa da Silva
+ * Antônio Carlos de Morais e Silva
+ * Viviane Pires de Siqueira
  
  ### Dependências necessárias
 
