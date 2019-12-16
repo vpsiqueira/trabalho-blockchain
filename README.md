@@ -1,4 +1,10 @@
-﻿### Dependências necessárias
+﻿### TRABALHO DE BLOCKCHAIN
+ ## Grupo
+ * Viviane Pires de Siqueira
+ * Antônio Carlos de Morais e Silva
+ * André Luiz Barbosa da Silva
+ 
+ ### Dependências necessárias
 
 Os softwares necessários para rodar o app são:
 
